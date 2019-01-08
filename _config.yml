@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 彭梦乾的博客 | BY Blog
+title: YXR Blog
+SEOTitle: 我的博客 | YXR Blog
 header-img: img/post-bg-desk.jpg
 email: 17600209313@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 彭梦乾的博客, pengmengqian, 彭梦乾, iOS, Apple, iPhone"
-url: "http://peng28.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 尹旭冉的博客, pengmengqian, 尹旭冉, iOS, Apple, iPhone"
+url: "http://yinxvran28.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/peng228/peng228.github.io.git" # you code repository
+github_repo: "https://github.com/yinxvran/yinxvran.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-YXR-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     彭彭彭11
-zhihu_username:     彭彭彭
-github_username:    peng228
+weibo_username:     YYY
+zhihu_username:     YYY
+github_username:    YYY
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   haha
 
 
 
